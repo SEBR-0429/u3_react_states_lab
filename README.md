@@ -22,4 +22,5 @@ Before we break into our Front End Hackathon, lets do a bit of review in React. 
 
 ## Bonus
 - Use a 3rd Party API to find the flag for each state when you click into that route
+- Have each of your mapped states in the "Borders:" array link to their own route
 - Find a Pizza image and map it to each state's page based off of their 'Quality of Pizza' value
