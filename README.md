@@ -12,7 +12,7 @@ Before we break into our Front End Hackathon, lets do a bit of review in React. 
 - Install and set up your React Router
 - Nest Header and Main into your App
 - Bring your states.js file into your SRC folder and import your data into app, passing the State data into your child componenets
-- Inside of main, nest two routes, an Index/List route, and a dynamic Show/Detiails route that renders all states by their ID, and shows more information
+- Inside of your Main.jsx, nest two routes, an Index/List route, and a dynamic Show/Detiails route that renders all states by their ID, and shows more information into them
 
 ## Requirements
 - 50 States mapped into a list/index route, with each state clickable to navigate to a show/details route that shows more information about the state from the JSON file
